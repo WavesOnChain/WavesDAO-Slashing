@@ -1,0 +1,896 @@
+{
+  "slashed_wallets": [
+    {
+      "wallet": "3PFFEtf7YDCvB3CWPSVGZLFa5Y8PM1KjW5U",
+      "current_amount": 1434138266,
+      "slashed_amount": 286827653,
+      "amount_after_slash": 1147310613
+    },
+    {
+      "wallet": "3PNEqDkLfEXoDqTCy1KwXNRVbxsSuDNUWfz",
+      "current_amount": 1021150120,
+      "slashed_amount": 204230024,
+      "amount_after_slash": 816920096
+    },
+    {
+      "wallet": "3PGobRuQzBY9VbeKLaZqrcQtW26wrE9jFm7",
+      "current_amount": 680068541,
+      "slashed_amount": 136013708,
+      "amount_after_slash": 544054833
+    },
+    {
+      "wallet": "3PGiSJd2BjDyzR5Z28cgtGB584GjbhUTsdk",
+      "current_amount": 502925087,
+      "slashed_amount": 100585017,
+      "amount_after_slash": 402340070
+    },
+    {
+      "wallet": "3P1xU8QSBk2gDQkepGYu24tTfwj4FgS7avv",
+      "current_amount": 296042415,
+      "slashed_amount": 59208483,
+      "amount_after_slash": 236833932
+    },
+    {
+      "wallet": "3PHkEKrYvAXKnbkhTe8ahznjZ35f65HVBUL",
+      "current_amount": 274638756,
+      "slashed_amount": 54927751,
+      "amount_after_slash": 219711005
+    },
+    {
+      "wallet": "3P8RiVSaQU8ehGLJ5QQNQzyxqYWvWbQb7iC",
+      "current_amount": 242312395,
+      "slashed_amount": 48462479,
+      "amount_after_slash": 193849916
+    },
+    {
+      "wallet": "3P2oKe3cQ4ir9GkHcn5ZhxbiHTWFKcjckvP",
+      "current_amount": 225717189,
+      "slashed_amount": 45143437,
+      "amount_after_slash": 180573752
+    },
+    {
+      "wallet": "3PLXMk37Nn7Wtm3uAK1gbxDc87JZmTh4gnU",
+      "current_amount": 214715357,
+      "slashed_amount": 42943071,
+      "amount_after_slash": 171772286
+    },
+    {
+      "wallet": "3PBLuEzWkANpFJV9QkCKKqfNCyYoDvBSx4x",
+      "current_amount": 192724014,
+      "slashed_amount": 38544802,
+      "amount_after_slash": 154179212
+    },
+    {
+      "wallet": "3P9DEDP5VbyXQyKtXDUt2crRPn5B7gs6ujc",
+      "current_amount": 178609882,
+      "slashed_amount": 35721976,
+      "amount_after_slash": 142887906
+    },
+    {
+      "wallet": "3PDr9kSfnVkoqQDFevDH7pJaks79osJtGiN",
+      "current_amount": 158559369,
+      "slashed_amount": 31711873,
+      "amount_after_slash": 126847496
+    },
+    {
+      "wallet": "3P3aayN8kE6gXo7jSki7WUJHdTAF4X4S9xA",
+      "current_amount": 157540472,
+      "slashed_amount": 31508094,
+      "amount_after_slash": 126032378
+    },
+    {
+      "wallet": "3PGhnfbrA7hg8wBiHnzHPYFk6M5Y6MU9and",
+      "current_amount": 145350466,
+      "slashed_amount": 29070093,
+      "amount_after_slash": 116280373
+    },
+    {
+      "wallet": "3PG1Q6JYAbKJUfnhBNirMg6WxK7kzh7uuNU",
+      "current_amount": 137228834,
+      "slashed_amount": 27445766,
+      "amount_after_slash": 109783068
+    },
+    {
+      "wallet": "3P2HNUd5VUPLMQkJmctTPEeeHumiPN2GkTb",
+      "current_amount": 114928728,
+      "slashed_amount": 22985745,
+      "amount_after_slash": 91942983
+    },
+    {
+      "wallet": "3P7GQo48n1SM7EZXnmNBRMcD5oDwKXf8SSm",
+      "current_amount": 112782724,
+      "slashed_amount": 22556544,
+      "amount_after_slash": 90226180
+    },
+    {
+      "wallet": "3PBitcoinAVGJvpSe6jevepPbT3M8SoMZjb",
+      "current_amount": 106538312,
+      "slashed_amount": 21307662,
+      "amount_after_slash": 85230650
+    },
+    {
+      "wallet": "3PFrn8EHRhjJGEQxYwWKdJcwcsW1XFRJbmz",
+      "current_amount": 101985978,
+      "slashed_amount": 20397195,
+      "amount_after_slash": 81588783
+    },
+    {
+      "wallet": "3P7ajba4wWLXq6t1G8VaoaVqbUb1dDp8fm4",
+      "current_amount": 101267518,
+      "slashed_amount": 20253503,
+      "amount_after_slash": 81014015
+    },
+    {
+      "wallet": "3PKJGireco3tANSEEMPqCEXR2iRuPTYSaof",
+      "current_amount": 100000070,
+      "slashed_amount": 20000014,
+      "amount_after_slash": 80000056
+    },
+    {
+      "wallet": "3PDCcpgpRgXLbCfmLjHUTFYcMwCo5TX78B8",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PCtonSbLR8Q9KQxw9REp71YC7wDuiyD6Af",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PM4AKMHCarZZRF9J8zxUPsnqLxosAe4okP",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3P2As8dmYcTfW69pVEdBbxNUthTqNNSvsWH",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PPYuWitmQTHYNN4etaFDWvkMo73hYXPxJ8",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PHjcsByieBMnbzN2DXmagpcjVaprXaaXpb",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PDTNZjKPaFga61cLQYwye12MTa5WBA4L7m",
+      "current_amount": 100000000,
+      "slashed_amount": 20000000,
+      "amount_after_slash": 80000000
+    },
+    {
+      "wallet": "3PMj3yGPBEa1Sx9X4TSBFeJCMMaE3wvKR4N",
+      "current_amount": 82959031,
+      "slashed_amount": 16591806,
+      "amount_after_slash": 66367225
+    },
+    {
+      "wallet": "3PFRJjJ7XbQNJ3SE7tHttn4rs2x9K8c1zMz",
+      "current_amount": 80290808,
+      "slashed_amount": 16058161,
+      "amount_after_slash": 64232647
+    },
+    {
+      "wallet": "3PKbeijLgYVWaKR3HrPsfh6pFgi291NoYKJ",
+      "current_amount": 75388997,
+      "slashed_amount": 15077799,
+      "amount_after_slash": 60311198
+    },
+    {
+      "wallet": "3PPykXoFjWUUtL4QufB5R44Z37EgArWJT7P",
+      "current_amount": 70280622,
+      "slashed_amount": 14056124,
+      "amount_after_slash": 56224498
+    },
+    {
+      "wallet": "3PDGff5UeXQeaGSDK4BV3Ruirj7KoKcUFLn",
+      "current_amount": 61163978,
+      "slashed_amount": 12232795,
+      "amount_after_slash": 48931183
+    },
+    {
+      "wallet": "3P2kj5gXVzoqWe27NeWQT7vpuaMw3tjEaV4",
+      "current_amount": 58084263,
+      "slashed_amount": 11616852,
+      "amount_after_slash": 46467411
+    },
+    {
+      "wallet": "3PBM36FThQAReDT3268sz5KCZ6t9BQ83qRg",
+      "current_amount": 52114669,
+      "slashed_amount": 10422933,
+      "amount_after_slash": 41691736
+    },
+    {
+      "wallet": "3PFcMotvQA8vxzA9NFKFBz6AY7GXD1AgXKP",
+      "current_amount": 50185396,
+      "slashed_amount": 10037079,
+      "amount_after_slash": 40148317
+    },
+    {
+      "wallet": "3P64FgRJU1EPEDMdTeSDyWMjDpGiRkBCLcH",
+      "current_amount": 48548573,
+      "slashed_amount": 9709714,
+      "amount_after_slash": 38838859
+    },
+    {
+      "wallet": "3PAoiQ4Re6rtvZFLshRRoZLcxjxpr4Fj74F",
+      "current_amount": 48352885,
+      "slashed_amount": 9670577,
+      "amount_after_slash": 38682308
+    },
+    {
+      "wallet": "3P6dwQLjn9f8K9eR5rQ7ivKCSAn7HcFzn29",
+      "current_amount": 47075858,
+      "slashed_amount": 9415171,
+      "amount_after_slash": 37660687
+    },
+    {
+      "wallet": "3PPRLpTAn9ku11YpPh1YfZcojCgopeet6er",
+      "current_amount": 33786804,
+      "slashed_amount": 6757360,
+      "amount_after_slash": 27029444
+    },
+    {
+      "wallet": "3P3RD3yJW2gQ9dSVwVVDVCQiFWqaLtZcyzH",
+      "current_amount": 30651817,
+      "slashed_amount": 6130363,
+      "amount_after_slash": 24521454
+    },
+    {
+      "wallet": "3P4KGSSaFd5G3DFT6tuQZv1VN1VUjeVcvsS",
+      "current_amount": 29047787,
+      "slashed_amount": 5809557,
+      "amount_after_slash": 23238230
+    },
+    {
+      "wallet": "3PGGv4a9LquYJ9SLU3JEh4g9caTJh6zuwKs",
+      "current_amount": 27791444,
+      "slashed_amount": 5558288,
+      "amount_after_slash": 22233156
+    },
+    {
+      "wallet": "3PAFUzFKebbwmKFM6evx9GrfYBkmn8LcULC",
+      "current_amount": 27555129,
+      "slashed_amount": 5511025,
+      "amount_after_slash": 22044104
+    },
+    {
+      "wallet": "3P5jnBJ1KffwjAX7Ftw4GDgvmkFr1oB7yjD",
+      "current_amount": 26636970,
+      "slashed_amount": 5327394,
+      "amount_after_slash": 21309576
+    },
+    {
+      "wallet": "3PE5AcDYBSCktDhjUz9mtbPTyU7mWzBkw5y",
+      "current_amount": 21801477,
+      "slashed_amount": 4360295,
+      "amount_after_slash": 17441182
+    },
+    {
+      "wallet": "3PKv96VfQ7a9299zNxaxqJDcSfgQmCX8ZSZ",
+      "current_amount": 16230781,
+      "slashed_amount": 3246156,
+      "amount_after_slash": 12984625
+    },
+    {
+      "wallet": "3PB3FX7aRQbgw9y7udp71gfKHr8AAqUoGWf",
+      "current_amount": 15248355,
+      "slashed_amount": 3049671,
+      "amount_after_slash": 12198684
+    },
+    {
+      "wallet": "3P2Nqmc9BFMmbe5cabgBMEUg9eZgNHYpghn",
+      "current_amount": 15168482,
+      "slashed_amount": 3033696,
+      "amount_after_slash": 12134786
+    },
+    {
+      "wallet": "3P2Twh35kxRNQ72FyG7WFEW12NmjHyiBco8",
+      "current_amount": 12602932,
+      "slashed_amount": 2520586,
+      "amount_after_slash": 10082346
+    },
+    {
+      "wallet": "3PJgDho14MN1ueX7D1kp2XJ3McggppfdQeT",
+      "current_amount": 12565792,
+      "slashed_amount": 2513158,
+      "amount_after_slash": 10052634
+    },
+    {
+      "wallet": "3PQLxESrVc8bVrr3hLCfrGtZ9eycDBGLAC2",
+      "current_amount": 12016815,
+      "slashed_amount": 2403363,
+      "amount_after_slash": 9613452
+    },
+    {
+      "wallet": "3PN4bcg8VqsFaB52ncdgfmA4Go26Vc16pJz",
+      "current_amount": 11884399,
+      "slashed_amount": 2376879,
+      "amount_after_slash": 9507520
+    },
+    {
+      "wallet": "3P5KC6qJH9TjDdQfgnvP1FpAg2Wa551JZEC",
+      "current_amount": 10677982,
+      "slashed_amount": 2135596,
+      "amount_after_slash": 8542386
+    },
+    {
+      "wallet": "3PP6Ws9GZ4CBC9oxCfS68vYz5gpUBr98qbz",
+      "current_amount": 10480615,
+      "slashed_amount": 2096123,
+      "amount_after_slash": 8384492
+    },
+    {
+      "wallet": "3P38Z9aMhGKAWnCiyMW4T3PcHcRaTAmTztH",
+      "current_amount": 8856131,
+      "slashed_amount": 1771226,
+      "amount_after_slash": 7084905
+    },
+    {
+      "wallet": "3P33D6UePSWhgdL9PfB9Mm4rVSTJrgV7i47",
+      "current_amount": 8710932,
+      "slashed_amount": 1742186,
+      "amount_after_slash": 6968746
+    },
+    {
+      "wallet": "3PCqhtB3YMQHqCz5Y2s2W5qk2h6zV9BeHWq",
+      "current_amount": 8696065,
+      "slashed_amount": 1739213,
+      "amount_after_slash": 6956852
+    },
+    {
+      "wallet": "3PLWe37Ja5HJbsVZUqRCSKH5H5uB7N6MA2v",
+      "current_amount": 8254741,
+      "slashed_amount": 1650948,
+      "amount_after_slash": 6603793
+    },
+    {
+      "wallet": "3PN8BYMCwS3Qv7tb2S66p4XN88FtT73BNwX",
+      "current_amount": 8108148,
+      "slashed_amount": 1621629,
+      "amount_after_slash": 6486519
+    },
+    {
+      "wallet": "3PGLuYXhBbzWCPGLCnWgToYfSPvPr43gVnn",
+      "current_amount": 7988002,
+      "slashed_amount": 1597600,
+      "amount_after_slash": 6390402
+    },
+    {
+      "wallet": "3PJoEeaNW16CUqpvbPCJnRydxi2xrZRd8xt",
+      "current_amount": 7858297,
+      "slashed_amount": 1571659,
+      "amount_after_slash": 6286638
+    },
+    {
+      "wallet": "3P9hB6w8Ey5FvgfPnvQFW2H8ZxWbJ7NBYPC",
+      "current_amount": 7667434,
+      "slashed_amount": 1533486,
+      "amount_after_slash": 6133948
+    },
+    {
+      "wallet": "3PDj8euoJ582MwHP1KaeAzkuwcrRb8uVRaR",
+      "current_amount": 7450285,
+      "slashed_amount": 1490057,
+      "amount_after_slash": 5960228
+    },
+    {
+      "wallet": "3PCS2SU43H22SkfcdXNNCVY411P7AcUdM7P",
+      "current_amount": 7313548,
+      "slashed_amount": 1462709,
+      "amount_after_slash": 5850839
+    },
+    {
+      "wallet": "3PDvifH7xH8cTMw1m1DYE13dKFNZgiLv9ZS",
+      "current_amount": 7175470,
+      "slashed_amount": 1435094,
+      "amount_after_slash": 5740376
+    },
+    {
+      "wallet": "3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw",
+      "current_amount": 6898906,
+      "slashed_amount": 1379781,
+      "amount_after_slash": 5519125
+    },
+    {
+      "wallet": "3PJv1WktpzKEwJC81GAGL9QLXsjPqVTbpiM",
+      "current_amount": 6878431,
+      "slashed_amount": 1375686,
+      "amount_after_slash": 5502745
+    },
+    {
+      "wallet": "3PJiNoCb7VUYeU9ZgMLSFjjBKukin8FmkZi",
+      "current_amount": 6798430,
+      "slashed_amount": 1359686,
+      "amount_after_slash": 5438744
+    },
+    {
+      "wallet": "3PACTUMWVTbV44HyauqBvLLwQTkTsPe74ti",
+      "current_amount": 6470957,
+      "slashed_amount": 1294191,
+      "amount_after_slash": 5176766
+    },
+    {
+      "wallet": "3P7tmzffzgwFGsmn4cw7wf2WCURegz6yc8B",
+      "current_amount": 6453216,
+      "slashed_amount": 1290643,
+      "amount_after_slash": 5162573
+    },
+    {
+      "wallet": "3PLypw3ccJSPjryRMvM5AE71kTfJETRGBF5",
+      "current_amount": 6412384,
+      "slashed_amount": 1282476,
+      "amount_after_slash": 5129908
+    },
+    {
+      "wallet": "3P9nXguLgd1ETMXkT5aGTCWeL7RPa6f7fwz",
+      "current_amount": 6354768,
+      "slashed_amount": 1270953,
+      "amount_after_slash": 5083815
+    },
+    {
+      "wallet": "3P6BBscRgnWv9C8Mkwc2Eug9sM7349PCxKd",
+      "current_amount": 6285881,
+      "slashed_amount": 1257176,
+      "amount_after_slash": 5028705
+    },
+    {
+      "wallet": "3PQ81N2GLAftMXrhXox4TTr13yY8Gdwehma",
+      "current_amount": 6280437,
+      "slashed_amount": 1256087,
+      "amount_after_slash": 5024350
+    },
+    {
+      "wallet": "3PFU7932LEbR7KgxuZ3GCG8FkaC21N8FJ1p",
+      "current_amount": 6246765,
+      "slashed_amount": 1249353,
+      "amount_after_slash": 4997412
+    },
+    {
+      "wallet": "3PFvnSssSWj1ibxJL4LYEUJVBXqSozyH2BW",
+      "current_amount": 6204376,
+      "slashed_amount": 1240875,
+      "amount_after_slash": 4963501
+    },
+    {
+      "wallet": "3PHaf2up4GDAyWSzAMWnEc42LqtBQDXww9S",
+      "current_amount": 6201664,
+      "slashed_amount": 1240332,
+      "amount_after_slash": 4961332
+    },
+    {
+      "wallet": "3P8zkiS3Uj4buroF5ZgNDb47WBF3txCEcPy",
+      "current_amount": 6185917,
+      "slashed_amount": 1237183,
+      "amount_after_slash": 4948734
+    },
+    {
+      "wallet": "3PC133gFthj5EDsQybk9kCc1HGMjk91o5kq",
+      "current_amount": 6116398,
+      "slashed_amount": 1223279,
+      "amount_after_slash": 4893119
+    },
+    {
+      "wallet": "3PHCE5kridDq5qjRjAw2PZcvb9ppBtVQUty",
+      "current_amount": 6088605,
+      "slashed_amount": 1217721,
+      "amount_after_slash": 4870884
+    },
+    {
+      "wallet": "3PKGkegKo6MjBYvJonAHDmsRPKeripbgwjE",
+      "current_amount": 6051662,
+      "slashed_amount": 1210332,
+      "amount_after_slash": 4841330
+    },
+    {
+      "wallet": "3P3J1Sp661nDwV69zJqrtdWM99uXEaqQDCN",
+      "current_amount": 6049272,
+      "slashed_amount": 1209854,
+      "amount_after_slash": 4839418
+    },
+    {
+      "wallet": "3P49ZqzrZmd2muGX4JajQreLQDpR6fVftrs",
+      "current_amount": 6037880,
+      "slashed_amount": 1207576,
+      "amount_after_slash": 4830304
+    },
+    {
+      "wallet": "3P98GM4MUnq2sNDKZqcb5gBqtT1zVngBAUr",
+      "current_amount": 5975235,
+      "slashed_amount": 1195047,
+      "amount_after_slash": 4780188
+    },
+    {
+      "wallet": "3PDuzxSgfLLP5qKi9Jzd8ai97DpX5t6RneY",
+      "current_amount": 5908939,
+      "slashed_amount": 1181787,
+      "amount_after_slash": 4727152
+    },
+    {
+      "wallet": "3PH6yoV2YHasy2A4VGvM17wLhgavW37tvoo",
+      "current_amount": 5875458,
+      "slashed_amount": 1175091,
+      "amount_after_slash": 4700367
+    },
+    {
+      "wallet": "3PBR3FPuRS2iMTWkpKLcHA5khpydpzKj4fr",
+      "current_amount": 5864545,
+      "slashed_amount": 1172909,
+      "amount_after_slash": 4691636
+    },
+    {
+      "wallet": "3P7VBSEmwQBW6YNkDVFuKjtWB2362rkB3jN",
+      "current_amount": 5822148,
+      "slashed_amount": 1164429,
+      "amount_after_slash": 4657719
+    },
+    {
+      "wallet": "3PFZ5m9fxC8iL7JYhDAkZdSviSCJxobGUrf",
+      "current_amount": 5789014,
+      "slashed_amount": 1157802,
+      "amount_after_slash": 4631212
+    },
+    {
+      "wallet": "3PLi2Kf3CSywdNo4mjB7K6okNSSg5utb2XM",
+      "current_amount": 5757004,
+      "slashed_amount": 1151400,
+      "amount_after_slash": 4605604
+    },
+    {
+      "wallet": "3P9SuYoQz5rizaM8LEVmm8mFrfQQK3SxL1B",
+      "current_amount": 5690446,
+      "slashed_amount": 1138089,
+      "amount_after_slash": 4552357
+    },
+    {
+      "wallet": "3PNZsgz5N8ibq2Gxt48pqHXKTdrnUcWamUS",
+      "current_amount": 5665687,
+      "slashed_amount": 1133137,
+      "amount_after_slash": 4532550
+    },
+    {
+      "wallet": "3PKXnXt3orT8nSrbWaMaeiq4DiK9a2vwBaG",
+      "current_amount": 5653956,
+      "slashed_amount": 1130791,
+      "amount_after_slash": 4523165
+    },
+    {
+      "wallet": "3PKUWRsfsJ3i1VRMt39p4NuuXLRTaPpkimZ",
+      "current_amount": 5632892,
+      "slashed_amount": 1126578,
+      "amount_after_slash": 4506314
+    },
+    {
+      "wallet": "3PMtvMveJuFuYgBxd7Vrj2thQktkpEksBZF",
+      "current_amount": 5615583,
+      "slashed_amount": 1123116,
+      "amount_after_slash": 4492467
+    },
+    {
+      "wallet": "3P4Ry9XyNu6w8S1wndzgopw4HxLmkpU5iXj",
+      "current_amount": 5483578,
+      "slashed_amount": 1096715,
+      "amount_after_slash": 4386863
+    },
+    {
+      "wallet": "3PDeYfUwj3nuBnTZad15cZmjqxAc3AE6Z91",
+      "current_amount": 5263576,
+      "slashed_amount": 1052715,
+      "amount_after_slash": 4210861
+    },
+    {
+      "wallet": "3PQCN2mg7RjMYT4u2K4foiHYm3ymvtp5qnY",
+      "current_amount": 5260244,
+      "slashed_amount": 1052048,
+      "amount_after_slash": 4208196
+    },
+    {
+      "wallet": "3P7PcCmKcrcgTDiy21AVTxbKBE9EtHZiwFo",
+      "current_amount": 5223452,
+      "slashed_amount": 1044690,
+      "amount_after_slash": 4178762
+    },
+    {
+      "wallet": "3PPoCwJ5aCLTCsW4Q5QMY2a9Hu6TtLiGbqu",
+      "current_amount": 5217648,
+      "slashed_amount": 1043529,
+      "amount_after_slash": 4174119
+    },
+    {
+      "wallet": "3PDqPCLkX5pZgsESwQbUHJxqsG9SMpDndsT",
+      "current_amount": 5201253,
+      "slashed_amount": 1040250,
+      "amount_after_slash": 4161003
+    },
+    {
+      "wallet": "3PKHyi6J7wK8AJ1Yq9Ug7wJUt1oWTfYMKpn",
+      "current_amount": 5105417,
+      "slashed_amount": 1021083,
+      "amount_after_slash": 4084334
+    },
+    {
+      "wallet": "3P3PsVQmBNtNEX5DQFW1YrnmQQXBSwHqmuw",
+      "current_amount": 5095856,
+      "slashed_amount": 1019171,
+      "amount_after_slash": 4076685
+    },
+    {
+      "wallet": "3P7cobmbtTnAKbrjm6RqV7DMn6hr8dHb29B",
+      "current_amount": 5076088,
+      "slashed_amount": 1015217,
+      "amount_after_slash": 4060871
+    },
+    {
+      "wallet": "3PNXuUddbQZUvyxu78tHkfK9eC5BWJBNnv8",
+      "current_amount": 4973407,
+      "slashed_amount": 994681,
+      "amount_after_slash": 3978726
+    },
+    {
+      "wallet": "3PREUa8AYiivdDm8JiGqVUar8bMMdpjJuoy",
+      "current_amount": 4658514,
+      "slashed_amount": 931702,
+      "amount_after_slash": 3726812
+    },
+    {
+      "wallet": "3P9Kt3UXUdKZ5DAjtddiM1WsXeJEdo1kDpf",
+      "current_amount": 4628544,
+      "slashed_amount": 925708,
+      "amount_after_slash": 3702836
+    },
+    {
+      "wallet": "3PQBQkSFAUkQrYrSsdikzCm77bew9euDoK5",
+      "current_amount": 4533189,
+      "slashed_amount": 906637,
+      "amount_after_slash": 3626552
+    },
+    {
+      "wallet": "3PMg26dKVdvGUu1RYEd1BtF3SdPU7oT9aov",
+      "current_amount": 4486759,
+      "slashed_amount": 897351,
+      "amount_after_slash": 3589408
+    },
+    {
+      "wallet": "3PCbeaJGtvxrAZZG1kAEZ9voQ3abxyoNJLb",
+      "current_amount": 4456499,
+      "slashed_amount": 891299,
+      "amount_after_slash": 3565200
+    },
+    {
+      "wallet": "3PBuVWh6bC7wao82a68UQWD9wK7zEMyQTza",
+      "current_amount": 3970610,
+      "slashed_amount": 794122,
+      "amount_after_slash": 3176488
+    },
+    {
+      "wallet": "3PBKBQGrLwAf9xht5spVBHv8pDJhCSp5ynM",
+      "current_amount": 3663443,
+      "slashed_amount": 732688,
+      "amount_after_slash": 2930755
+    },
+    {
+      "wallet": "3P1yL225D9hQYixZZc14wve6FNj4frAa4r4",
+      "current_amount": 3600338,
+      "slashed_amount": 720067,
+      "amount_after_slash": 2880271
+    },
+    {
+      "wallet": "3P3oLWRCLqjS5TiBVqm7UJwSCz8EVYL2awc",
+      "current_amount": 3598762,
+      "slashed_amount": 719752,
+      "amount_after_slash": 2879010
+    },
+    {
+      "wallet": "3P2bu6buiK6RpsFW5z3paPhPSyjGWwiMeNm",
+      "current_amount": 3475057,
+      "slashed_amount": 695011,
+      "amount_after_slash": 2780046
+    },
+    {
+      "wallet": "3PJdbD1M3wcqVpwq7ufH7ecEsFcmQYiik5f",
+      "current_amount": 3441791,
+      "slashed_amount": 688358,
+      "amount_after_slash": 2753433
+    },
+    {
+      "wallet": "3P6Bu15HkUcC7qa2as5GEY6MeGMsbQHEeC8",
+      "current_amount": 3339308,
+      "slashed_amount": 667861,
+      "amount_after_slash": 2671447
+    },
+    {
+      "wallet": "3PC2CBPjoUNWnnwPiV9W3iTCkMj7cFZkSQ9",
+      "current_amount": 3243827,
+      "slashed_amount": 648765,
+      "amount_after_slash": 2595062
+    },
+    {
+      "wallet": "3PG1c1dhBBvVkKqQyPTbjXLXPfSkjSsNVqz",
+      "current_amount": 3170130,
+      "slashed_amount": 634026,
+      "amount_after_slash": 2536104
+    },
+    {
+      "wallet": "3P6cGqavwFHR5o1noQ5VyjWoNQypnF6Dn4o",
+      "current_amount": 2644755,
+      "slashed_amount": 528951,
+      "amount_after_slash": 2115804
+    },
+    {
+      "wallet": "3P4xQ2iDs1LTytj7dg5ozceVirVHYvSqeTq",
+      "current_amount": 2635818,
+      "slashed_amount": 527163,
+      "amount_after_slash": 2108655
+    },
+    {
+      "wallet": "3PGTegesjZvFH1S1EgDD3fhMKy5DniBeTkC",
+      "current_amount": 2391717,
+      "slashed_amount": 478343,
+      "amount_after_slash": 1913374
+    },
+    {
+      "wallet": "3PBmLsZtKQ4rXk5vc3BtfrJNiNbFPWM8Ybe",
+      "current_amount": 2315709,
+      "slashed_amount": 463141,
+      "amount_after_slash": 1852568
+    },
+    {
+      "wallet": "3P5SLaCL3iF2FzrViwtPyuu2ZeoXTnZVExD",
+      "current_amount": 2308865,
+      "slashed_amount": 461773,
+      "amount_after_slash": 1847092
+    },
+    {
+      "wallet": "3P3JBgEVfWzHbWbmP8e5v7KZ4qAjw37zUac",
+      "current_amount": 2295628,
+      "slashed_amount": 459125,
+      "amount_after_slash": 1836503
+    },
+    {
+      "wallet": "3P3QuNQ7ArM6nnNSfyeuJowJYyRxbsadWBd",
+      "current_amount": 2226248,
+      "slashed_amount": 445249,
+      "amount_after_slash": 1780999
+    },
+    {
+      "wallet": "3PD6c1rjMTrBv318NwzrK4So4PhNh3qDcEq",
+      "current_amount": 2140342,
+      "slashed_amount": 428068,
+      "amount_after_slash": 1712274
+    },
+    {
+      "wallet": "3PK1JzxLjmLBZw33n5YKFZBkmbnt5Y73na4",
+      "current_amount": 1954266,
+      "slashed_amount": 390853,
+      "amount_after_slash": 1563413
+    },
+    {
+      "wallet": "3PQBxD7LjHw9vag6XohS9QFs9EyFDBUWzA6",
+      "current_amount": 1937325,
+      "slashed_amount": 387465,
+      "amount_after_slash": 1549860
+    },
+    {
+      "wallet": "3P5V5QCLjEAbHSUFCNk49Bj5QcgQGXT2DZy",
+      "current_amount": 1834227,
+      "slashed_amount": 366845,
+      "amount_after_slash": 1467382
+    },
+    {
+      "wallet": "3PDKq987em9ZYevwovevsaKW2rAt4FFLaBU",
+      "current_amount": 1833781,
+      "slashed_amount": 366756,
+      "amount_after_slash": 1467025
+    },
+    {
+      "wallet": "3PCRCDBroXMB8MM7wNBNy65MuVDvAdYDN8q",
+      "current_amount": 1831407,
+      "slashed_amount": 366281,
+      "amount_after_slash": 1465126
+    },
+    {
+      "wallet": "3PQwejaJgsPuK8AdDkUg3STJDJLNpVXDcGC",
+      "current_amount": 1751725,
+      "slashed_amount": 350345,
+      "amount_after_slash": 1401380
+    },
+    {
+      "wallet": "3PKTJLzQVmouUtVn4Yu91do81ayHY7PnTNn",
+      "current_amount": 1411472,
+      "slashed_amount": 282294,
+      "amount_after_slash": 1129178
+    },
+    {
+      "wallet": "3P4RLw7ubKWVfgvQ8nRWhNtGxvSJyEw47Np",
+      "current_amount": 1103083,
+      "slashed_amount": 220616,
+      "amount_after_slash": 882467
+    },
+    {
+      "wallet": "3PMNhiQpWuEmRhX7qoBC2x1scj5icKKqfDf",
+      "current_amount": 1031759,
+      "slashed_amount": 206351,
+      "amount_after_slash": 825408
+    },
+    {
+      "wallet": "3P2RhJdRsEuW2Cn2fGAYji82xg1tB9dPC9R",
+      "current_amount": 910954,
+      "slashed_amount": 182190,
+      "amount_after_slash": 728764
+    },
+    {
+      "wallet": "3P76f18uZeaNQ3dQesjwRXkTcQVjrRGzL4v",
+      "current_amount": 806047,
+      "slashed_amount": 161209,
+      "amount_after_slash": 644838
+    },
+    {
+      "wallet": "3PGrM7bxbNpxVYwanTDZbkggpztPTMkPAJ4",
+      "current_amount": 778090,
+      "slashed_amount": 155618,
+      "amount_after_slash": 622472
+    },
+    {
+      "wallet": "3PN8cDAEMu8R6wiAkLYxtAMEAVBo8UPCcFo",
+      "current_amount": 543333,
+      "slashed_amount": 108666,
+      "amount_after_slash": 434667
+    },
+    {
+      "wallet": "3PFcfgVmswD22rtiYZuzWMB7NXXsE1aaseR",
+      "current_amount": 495435,
+      "slashed_amount": 99087,
+      "amount_after_slash": 396348
+    },
+    {
+      "wallet": "3PKrpTRyT6Wx3wRqm3u8juwDV9Vjbx6kLWt",
+      "current_amount": 464501,
+      "slashed_amount": 92900,
+      "amount_after_slash": 371601
+    },
+    {
+      "wallet": "3PQwUzCLuAG24xV7Bd6AMWCz4GEXyDix8Dz",
+      "current_amount": 410531,
+      "slashed_amount": 82106,
+      "amount_after_slash": 328425
+    },
+    {
+      "wallet": "3P2bbStdAbiAoe6CVhvKTE3SbYmkTQ85QT3",
+      "current_amount": 365688,
+      "slashed_amount": 73137,
+      "amount_after_slash": 292551
+    },
+    {
+      "wallet": "3PJ81yshrSxjLNTm6eSLeFQQGRJTbAw9rir",
+      "current_amount": 357916,
+      "slashed_amount": 71583,
+      "amount_after_slash": 286333
+    },
+    {
+      "wallet": "3PQ59FvFvKJoSkN5GEwJZKw7H12zSvvQ9us",
+      "current_amount": 203934,
+      "slashed_amount": 40786,
+      "amount_after_slash": 163148
+    },
+    {
+      "wallet": "3PCeyLfiGNJEM9fiq3djocedqKUnEjAcfn3",
+      "current_amount": 72077,
+      "slashed_amount": 14415,
+      "amount_after_slash": 57662
+    }
+  ],
+  "total_pwr_before_slash": 8604386986,
+  "total_slashed": 1720877340,
+  "total_pwr_after_slash": 6883509646,
+  "total_wallets": 148
+}

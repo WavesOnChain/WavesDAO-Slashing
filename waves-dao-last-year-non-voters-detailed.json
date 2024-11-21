@@ -1,0 +1,908 @@
+[
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQ9hZ36dyXGcqabcrHXsjP9PaQMqy69yeE",
+        "committed": 6581528228,
+        "percentage": "10.279424915%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFFEtf7YDCvB3CWPSVGZLFa5Y8PM1KjW5U",
+        "committed": 1434138266,
+        "percentage": "2.239923026%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PNEqDkLfEXoDqTCy1KwXNRVbxsSuDNUWfz",
+        "committed": 1021150120,
+        "percentage": "1.594893408%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGobRuQzBY9VbeKLaZqrcQtW26wrE9jFm7",
+        "committed": 680068541,
+        "percentage": "1.062171773%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGiSJd2BjDyzR5Z28cgtGB584GjbhUTsdk",
+        "committed": 502925087,
+        "percentage": "0.785498518%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9oKJDS48iziRkNUvzJecvhMvtGRdkFZpA",
+        "committed": 366670508,
+        "percentage": "0.572687957%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P1xU8QSBk2gDQkepGYu24tTfwj4FgS7avv",
+        "committed": 296042415,
+        "percentage": "0.462376772%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PHkEKrYvAXKnbkhTe8ahznjZ35f65HVBUL",
+        "committed": 274638756,
+        "percentage": "0.428947256%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P8RiVSaQU8ehGLJ5QQNQzyxqYWvWbQb7iC",
+        "committed": 242312395,
+        "percentage": "0.378458009%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2oKe3cQ4ir9GkHcn5ZhxbiHTWFKcjckvP",
+        "committed": 225717189,
+        "percentage": "0.352538623%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PLXMk37Nn7Wtm3uAK1gbxDc87JZmTh4gnU",
+        "committed": 214715357,
+        "percentage": "0.335355303%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBLuEzWkANpFJV9QkCKKqfNCyYoDvBSx4x",
+        "committed": 192724014,
+        "percentage": "0.301007906%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9DEDP5VbyXQyKtXDUt2crRPn5B7gs6ujc",
+        "committed": 178609882,
+        "percentage": "0.278963610%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDr9kSfnVkoqQDFevDH7pJaks79osJtGiN",
+        "committed": 158559369,
+        "percentage": "0.247647518%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3aayN8kE6gXo7jSki7WUJHdTAF4X4S9xA",
+        "committed": 157540472,
+        "percentage": "0.246056143%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGhnfbrA7hg8wBiHnzHPYFk6M5Y6MU9and",
+        "committed": 145350466,
+        "percentage": "0.227017062%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PG1Q6JYAbKJUfnhBNirMg6WxK7kzh7uuNU",
+        "committed": 137228834,
+        "percentage": "0.214332211%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2HNUd5VUPLMQkJmctTPEeeHumiPN2GkTb",
+        "committed": 114928728,
+        "percentage": "0.179502570%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7GQo48n1SM7EZXnmNBRMcD5oDwKXf8SSm",
+        "committed": 112782724,
+        "percentage": "0.176150812%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBitcoinAVGJvpSe6jevepPbT3M8SoMZjb",
+        "committed": 106538312,
+        "percentage": "0.166397916%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFrn8EHRhjJGEQxYwWKdJcwcsW1XFRJbmz",
+        "committed": 101985978,
+        "percentage": "0.159287808%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7ajba4wWLXq6t1G8VaoaVqbUb1dDp8fm4",
+        "committed": 101267518,
+        "percentage": "0.158165674%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKJGireco3tANSEEMPqCEXR2iRuPTYSaof",
+        "committed": 100000070,
+        "percentage": "0.156186098%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDCcpgpRgXLbCfmLjHUTFYcMwCo5TX78B8",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCtonSbLR8Q9KQxw9REp71YC7wDuiyD6Af",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PM4AKMHCarZZRF9J8zxUPsnqLxosAe4okP",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2As8dmYcTfW69pVEdBbxNUthTqNNSvsWH",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PPYuWitmQTHYNN4etaFDWvkMo73hYXPxJ8",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PHjcsByieBMnbzN2DXmagpcjVaprXaaXpb",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDTNZjKPaFga61cLQYwye12MTa5WBA4L7m",
+        "committed": 100000000,
+        "percentage": "0.156185988%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PMj3yGPBEa1Sx9X4TSBFeJCMMaE3wvKR4N",
+        "committed": 82959031,
+        "percentage": "0.129570383%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFRJjJ7XbQNJ3SE7tHttn4rs2x9K8c1zMz",
+        "committed": 80290808,
+        "percentage": "0.125402992%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKbeijLgYVWaKR3HrPsfh6pFgi291NoYKJ",
+        "committed": 75388997,
+        "percentage": "0.117747050%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PPykXoFjWUUtL4QufB5R44Z37EgArWJT7P",
+        "committed": 70280622,
+        "percentage": "0.109768484%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDGff5UeXQeaGSDK4BV3Ruirj7KoKcUFLn",
+        "committed": 61163978,
+        "percentage": "0.095529564%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2kj5gXVzoqWe27NeWQT7vpuaMw3tjEaV4",
+        "committed": 58084263,
+        "percentage": "0.090719480%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBM36FThQAReDT3268sz5KCZ6t9BQ83qRg",
+        "committed": 52114669,
+        "percentage": "0.081395811%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFcMotvQA8vxzA9NFKFBz6AY7GXD1AgXKP",
+        "committed": 50185396,
+        "percentage": "0.078382557%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P64FgRJU1EPEDMdTeSDyWMjDpGiRkBCLcH",
+        "committed": 48548573,
+        "percentage": "0.075826069%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PAoiQ4Re6rtvZFLshRRoZLcxjxpr4Fj74F",
+        "committed": 48352885,
+        "percentage": "0.075520431%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P6dwQLjn9f8K9eR5rQ7ivKCSAn7HcFzn29",
+        "committed": 47075858,
+        "percentage": "0.073525894%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PLLZeu7tQQmo7nFN3aXMAiZjTFj8NgxDn6",
+        "committed": 38290647,
+        "percentage": "0.059804625%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PPRLpTAn9ku11YpPh1YfZcojCgopeet6er",
+        "committed": 33786804,
+        "percentage": "0.052770254%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3RD3yJW2gQ9dSVwVVDVCQiFWqaLtZcyzH",
+        "committed": 30651817,
+        "percentage": "0.047873843%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P4KGSSaFd5G3DFT6tuQZv1VN1VUjeVcvsS",
+        "committed": 29047787,
+        "percentage": "0.045368573%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGGv4a9LquYJ9SLU3JEh4g9caTJh6zuwKs",
+        "committed": 27791444,
+        "percentage": "0.043406342%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PAFUzFKebbwmKFM6evx9GrfYBkmn8LcULC",
+        "committed": 27555129,
+        "percentage": "0.043037251%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P5jnBJ1KffwjAX7Ftw4GDgvmkFr1oB7yjD",
+        "committed": 26636970,
+        "percentage": "0.041603215%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PE5AcDYBSCktDhjUz9mtbPTyU7mWzBkw5y",
+        "committed": 21801477,
+        "percentage": "0.034050852%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKv96VfQ7a9299zNxaxqJDcSfgQmCX8ZSZ",
+        "committed": 16230781,
+        "percentage": "0.025350206%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PB3FX7aRQbgw9y7udp71gfKHr8AAqUoGWf",
+        "committed": 15248355,
+        "percentage": "0.023815794%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2Nqmc9BFMmbe5cabgBMEUg9eZgNHYpghn",
+        "committed": 15168482,
+        "percentage": "0.023691044%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2Twh35kxRNQ72FyG7WFEW12NmjHyiBco8",
+        "committed": 12602932,
+        "percentage": "0.019684014%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJgDho14MN1ueX7D1kp2XJ3McggppfdQeT",
+        "committed": 12565792,
+        "percentage": "0.019626006%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQLxESrVc8bVrr3hLCfrGtZ9eycDBGLAC2",
+        "committed": 12016815,
+        "percentage": "0.018768581%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PN4bcg8VqsFaB52ncdgfmA4Go26Vc16pJz",
+        "committed": 11884399,
+        "percentage": "0.018561766%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P5KC6qJH9TjDdQfgnvP1FpAg2Wa551JZEC",
+        "committed": 10677982,
+        "percentage": "0.016677512%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PP6Ws9GZ4CBC9oxCfS68vYz5gpUBr98qbz",
+        "committed": 10480615,
+        "percentage": "0.016369252%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P38Z9aMhGKAWnCiyMW4T3PcHcRaTAmTztH",
+        "committed": 8856131,
+        "percentage": "0.013832036%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P33D6UePSWhgdL9PfB9Mm4rVSTJrgV7i47",
+        "committed": 8710932,
+        "percentage": "0.013605255%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCqhtB3YMQHqCz5Y2s2W5qk2h6zV9BeHWq",
+        "committed": 8696065,
+        "percentage": "0.013582035%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PLWe37Ja5HJbsVZUqRCSKH5H5uB7N6MA2v",
+        "committed": 8254741,
+        "percentage": "0.012892749%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PN8BYMCwS3Qv7tb2S66p4XN88FtT73BNwX",
+        "committed": 8108148,
+        "percentage": "0.012663791%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGLuYXhBbzWCPGLCnWgToYfSPvPr43gVnn",
+        "committed": 7988002,
+        "percentage": "0.012476140%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJoEeaNW16CUqpvbPCJnRydxi2xrZRd8xt",
+        "committed": 7858297,
+        "percentage": "0.012273559%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9hB6w8Ey5FvgfPnvQFW2H8ZxWbJ7NBYPC",
+        "committed": 7667434,
+        "percentage": "0.011975458%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDj8euoJ582MwHP1KaeAzkuwcrRb8uVRaR",
+        "committed": 7450285,
+        "percentage": "0.011636301%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCS2SU43H22SkfcdXNNCVY411P7AcUdM7P",
+        "committed": 7313548,
+        "percentage": "0.011422737%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDvifH7xH8cTMw1m1DYE13dKFNZgiLv9ZS",
+        "committed": 7175470,
+        "percentage": "0.011207079%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw",
+        "committed": 6898906,
+        "percentage": "0.010775125%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJv1WktpzKEwJC81GAGL9QLXsjPqVTbpiM",
+        "committed": 6878431,
+        "percentage": "0.010743145%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJiNoCb7VUYeU9ZgMLSFjjBKukin8FmkZi",
+        "committed": 6798430,
+        "percentage": "0.010618195%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PACTUMWVTbV44HyauqBvLLwQTkTsPe74ti",
+        "committed": 6470957,
+        "percentage": "0.010106728%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7tmzffzgwFGsmn4cw7wf2WCURegz6yc8B",
+        "committed": 6453216,
+        "percentage": "0.010079019%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PLypw3ccJSPjryRMvM5AE71kTfJETRGBF5",
+        "committed": 6412384,
+        "percentage": "0.010015245%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9nXguLgd1ETMXkT5aGTCWeL7RPa6f7fwz",
+        "committed": 6354768,
+        "percentage": "0.009925257%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P6BBscRgnWv9C8Mkwc2Eug9sM7349PCxKd",
+        "committed": 6285881,
+        "percentage": "0.009817665%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQ81N2GLAftMXrhXox4TTr13yY8Gdwehma",
+        "committed": 6280437,
+        "percentage": "0.009809163%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFU7932LEbR7KgxuZ3GCG8FkaC21N8FJ1p",
+        "committed": 6246765,
+        "percentage": "0.009756572%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFvnSssSWj1ibxJL4LYEUJVBXqSozyH2BW",
+        "committed": 6204376,
+        "percentage": "0.009690366%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PHaf2up4GDAyWSzAMWnEc42LqtBQDXww9S",
+        "committed": 6201664,
+        "percentage": "0.009686130%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P8zkiS3Uj4buroF5ZgNDb47WBF3txCEcPy",
+        "committed": 6185917,
+        "percentage": "0.009661536%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PC133gFthj5EDsQybk9kCc1HGMjk91o5kq",
+        "committed": 6116398,
+        "percentage": "0.009552957%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PHCE5kridDq5qjRjAw2PZcvb9ppBtVQUty",
+        "committed": 6088605,
+        "percentage": "0.009509548%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKGkegKo6MjBYvJonAHDmsRPKeripbgwjE",
+        "committed": 6051662,
+        "percentage": "0.009451848%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3J1Sp661nDwV69zJqrtdWM99uXEaqQDCN",
+        "committed": 6049272,
+        "percentage": "0.009448115%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P49ZqzrZmd2muGX4JajQreLQDpR6fVftrs",
+        "committed": 6037880,
+        "percentage": "0.009430323%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P98GM4MUnq2sNDKZqcb5gBqtT1zVngBAUr",
+        "committed": 5975235,
+        "percentage": "0.009332480%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDuzxSgfLLP5qKi9Jzd8ai97DpX5t6RneY",
+        "committed": 5908939,
+        "percentage": "0.009228935%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PH6yoV2YHasy2A4VGvM17wLhgavW37tvoo",
+        "committed": 5875458,
+        "percentage": "0.009176642%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBR3FPuRS2iMTWkpKLcHA5khpydpzKj4fr",
+        "committed": 5864545,
+        "percentage": "0.009159598%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7VBSEmwQBW6YNkDVFuKjtWB2362rkB3jN",
+        "committed": 5822148,
+        "percentage": "0.009093379%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFZ5m9fxC8iL7JYhDAkZdSviSCJxobGUrf",
+        "committed": 5789014,
+        "percentage": "0.009041629%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PLi2Kf3CSywdNo4mjB7K6okNSSg5utb2XM",
+        "committed": 5757004,
+        "percentage": "0.008991634%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9SuYoQz5rizaM8LEVmm8mFrfQQK3SxL1B",
+        "committed": 5690446,
+        "percentage": "0.008887679%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PNZsgz5N8ibq2Gxt48pqHXKTdrnUcWamUS",
+        "committed": 5665687,
+        "percentage": "0.008849009%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKXnXt3orT8nSrbWaMaeiq4DiK9a2vwBaG",
+        "committed": 5653956,
+        "percentage": "0.008830687%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKUWRsfsJ3i1VRMt39p4NuuXLRTaPpkimZ",
+        "committed": 5632892,
+        "percentage": "0.008797788%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PMtvMveJuFuYgBxd7Vrj2thQktkpEksBZF",
+        "committed": 5615583,
+        "percentage": "0.008770754%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P4Ry9XyNu6w8S1wndzgopw4HxLmkpU5iXj",
+        "committed": 5483578,
+        "percentage": "0.008564580%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDeYfUwj3nuBnTZad15cZmjqxAc3AE6Z91",
+        "committed": 5263576,
+        "percentage": "0.008220968%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQCN2mg7RjMYT4u2K4foiHYm3ymvtp5qnY",
+        "committed": 5260244,
+        "percentage": "0.008215764%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7PcCmKcrcgTDiy21AVTxbKBE9EtHZiwFo",
+        "committed": 5223452,
+        "percentage": "0.008158300%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PPoCwJ5aCLTCsW4Q5QMY2a9Hu6TtLiGbqu",
+        "committed": 5217648,
+        "percentage": "0.008149235%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDqPCLkX5pZgsESwQbUHJxqsG9SMpDndsT",
+        "committed": 5201253,
+        "percentage": "0.008123628%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKHyi6J7wK8AJ1Yq9Ug7wJUt1oWTfYMKpn",
+        "committed": 5105417,
+        "percentage": "0.007973946%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3PsVQmBNtNEX5DQFW1YrnmQQXBSwHqmuw",
+        "committed": 5095856,
+        "percentage": "0.007959013%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P7cobmbtTnAKbrjm6RqV7DMn6hr8dHb29B",
+        "committed": 5076088,
+        "percentage": "0.007928138%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PNXuUddbQZUvyxu78tHkfK9eC5BWJBNnv8",
+        "committed": 4973407,
+        "percentage": "0.007767765%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PREUa8AYiivdDm8JiGqVUar8bMMdpjJuoy",
+        "committed": 4658514,
+        "percentage": "0.007275946%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P9Kt3UXUdKZ5DAjtddiM1WsXeJEdo1kDpf",
+        "committed": 4628544,
+        "percentage": "0.007229137%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQBQkSFAUkQrYrSsdikzCm77bew9euDoK5",
+        "committed": 4533189,
+        "percentage": "0.007080206%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PMg26dKVdvGUu1RYEd1BtF3SdPU7oT9aov",
+        "committed": 4486759,
+        "percentage": "0.007007689%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCbeaJGtvxrAZZG1kAEZ9voQ3abxyoNJLb",
+        "committed": 4456499,
+        "percentage": "0.006960427%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBuVWh6bC7wao82a68UQWD9wK7zEMyQTza",
+        "committed": 3970610,
+        "percentage": "0.006201536%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBKBQGrLwAf9xht5spVBHv8pDJhCSp5ynM",
+        "committed": 3663443,
+        "percentage": "0.005721785%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P1yL225D9hQYixZZc14wve6FNj4frAa4r4",
+        "committed": 3600338,
+        "percentage": "0.005623223%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3oLWRCLqjS5TiBVqm7UJwSCz8EVYL2awc",
+        "committed": 3598762,
+        "percentage": "0.005620762%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2bu6buiK6RpsFW5z3paPhPSyjGWwiMeNm",
+        "committed": 3475057,
+        "percentage": "0.005427552%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJdbD1M3wcqVpwq7ufH7ecEsFcmQYiik5f",
+        "committed": 3441791,
+        "percentage": "0.005375595%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P6Bu15HkUcC7qa2as5GEY6MeGMsbQHEeC8",
+        "committed": 3339308,
+        "percentage": "0.005215531%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PC2CBPjoUNWnnwPiV9W3iTCkMj7cFZkSQ9",
+        "committed": 3243827,
+        "percentage": "0.005066403%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PG1c1dhBBvVkKqQyPTbjXLXPfSkjSsNVqz",
+        "committed": 3170130,
+        "percentage": "0.004951299%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P6cGqavwFHR5o1noQ5VyjWoNQypnF6Dn4o",
+        "committed": 2644755,
+        "percentage": "0.004130737%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P4xQ2iDs1LTytj7dg5ozceVirVHYvSqeTq",
+        "committed": 2635818,
+        "percentage": "0.004116778%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGTegesjZvFH1S1EgDD3fhMKy5DniBeTkC",
+        "committed": 2391717,
+        "percentage": "0.003735527%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PBmLsZtKQ4rXk5vc3BtfrJNiNbFPWM8Ybe",
+        "committed": 2315709,
+        "percentage": "0.003616813%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P5SLaCL3iF2FzrViwtPyuu2ZeoXTnZVExD",
+        "committed": 2308865,
+        "percentage": "0.003606124%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3JBgEVfWzHbWbmP8e5v7KZ4qAjw37zUac",
+        "committed": 2295628,
+        "percentage": "0.003585449%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P3QuNQ7ArM6nnNSfyeuJowJYyRxbsadWBd",
+        "committed": 2226248,
+        "percentage": "0.003477087%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PD6c1rjMTrBv318NwzrK4So4PhNh3qDcEq",
+        "committed": 2140342,
+        "percentage": "0.003342914%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PK1JzxLjmLBZw33n5YKFZBkmbnt5Y73na4",
+        "committed": 1954266,
+        "percentage": "0.003052290%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQBxD7LjHw9vag6XohS9QFs9EyFDBUWzA6",
+        "committed": 1937325,
+        "percentage": "0.003025830%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P5V5QCLjEAbHSUFCNk49Bj5QcgQGXT2DZy",
+        "committed": 1834227,
+        "percentage": "0.002864806%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PDKq987em9ZYevwovevsaKW2rAt4FFLaBU",
+        "committed": 1833781,
+        "percentage": "0.002864109%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCRCDBroXMB8MM7wNBNy65MuVDvAdYDN8q",
+        "committed": 1831407,
+        "percentage": "0.002860401%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQwejaJgsPuK8AdDkUg3STJDJLNpVXDcGC",
+        "committed": 1751725,
+        "percentage": "0.002735949%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKTJLzQVmouUtVn4Yu91do81ayHY7PnTNn",
+        "committed": 1411472,
+        "percentage": "0.002204521%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P4RLw7ubKWVfgvQ8nRWhNtGxvSJyEw47Np",
+        "committed": 1103083,
+        "percentage": "0.001722861%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PMNhiQpWuEmRhX7qoBC2x1scj5icKKqfDf",
+        "committed": 1031759,
+        "percentage": "0.001611463%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2RhJdRsEuW2Cn2fGAYji82xg1tB9dPC9R",
+        "committed": 910954,
+        "percentage": "0.001422783%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P76f18uZeaNQ3dQesjwRXkTcQVjrRGzL4v",
+        "committed": 806047,
+        "percentage": "0.001258932%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PGrM7bxbNpxVYwanTDZbkggpztPTMkPAJ4",
+        "committed": 778090,
+        "percentage": "0.001215268%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PN8cDAEMu8R6wiAkLYxtAMEAVBo8UPCcFo",
+        "committed": 543333,
+        "percentage": "0.000848610%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PFcfgVmswD22rtiYZuzWMB7NXXsE1aaseR",
+        "committed": 495435,
+        "percentage": "0.000773800%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PKrpTRyT6Wx3wRqm3u8juwDV9Vjbx6kLWt",
+        "committed": 464501,
+        "percentage": "0.000725485%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQwUzCLuAG24xV7Bd6AMWCz4GEXyDix8Dz",
+        "committed": 410531,
+        "percentage": "0.000641192%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3P2bbStdAbiAoe6CVhvKTE3SbYmkTQ85QT3",
+        "committed": 365688,
+        "percentage": "0.000571153%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PJ81yshrSxjLNTm6eSLeFQQGRJTbAw9rir",
+        "committed": 357916,
+        "percentage": "0.000559015%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PQ59FvFvKJoSkN5GEwJZKw7H12zSvvQ9us",
+        "committed": 203934,
+        "percentage": "0.000318516%"
+    },
+    {
+        "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+        "committer_address": "3PCeyLfiGNJEM9fiq3djocedqKUnEjAcfn3",
+        "committed": 72077,
+        "percentage": "0.000112574%"
+    }
+]
