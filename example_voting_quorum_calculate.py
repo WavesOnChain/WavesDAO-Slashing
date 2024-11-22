@@ -4,6 +4,9 @@ import math
 total_proposals = 77
 quorum_percentage = 30
 
+# Person's participation
+person_1_votes = 2  # Number of proposals Person 1 has voted on
+
 # Calculate the exact fractional value of proposals required for quorum
 exact_quorum_value = (quorum_percentage / 100) * total_proposals
 print(f"Exact quorum value (fractional): {exact_quorum_value}")  # Show the raw fractional value for reference
@@ -12,8 +15,6 @@ print(f"Exact quorum value (fractional): {exact_quorum_value}")  # Show the raw 
 required_votes = math.floor(exact_quorum_value)
 print(f"Minimum required votes to meet the quorum: {required_votes}\n")  # Show the final rounded-down requirement
 
-# Person's participation
-person_1_votes = 2  # Number of proposals Person 1 has voted on
 
 # Check if Person 1 meets the quorum
 if person_1_votes >= required_votes:
