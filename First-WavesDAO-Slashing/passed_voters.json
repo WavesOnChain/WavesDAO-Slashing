@@ -1,0 +1,338 @@
+{
+  "summary": {
+    "total_passed_voters": 30,
+    "total_committed_saved": 29640617908
+  },
+  "passed_voters": [
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P8qVX189qpoTJZQQQdKS9endHK5sxWsvrd",
+      "committed_amount": 1697602394,
+      "total_voting_count": 87,
+      "voted_count": 28,
+      "percentage": 32.18390804597701,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 32.18390804597701
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PNbqSYQBinQHwBdeivvRwZxtxGwAt78YVA",
+      "committed_amount": 110000000,
+      "total_voting_count": 81,
+      "voted_count": 27,
+      "percentage": 33.33333333333333,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 33.33333333333333
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PEcrtnjM337CJ48pjFuPCfsYLmCztwYoMx",
+      "committed_amount": 1000000000,
+      "total_voting_count": 74,
+      "voted_count": 26,
+      "percentage": 35.13513513513514,
+      "required_votes": 22,
+      "votes_missing": 0,
+      "exact_percentage": 35.13513513513514
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PEFQiFMLm1gTVjPdfCErG8mTHRcH2ATaWa",
+      "committed_amount": 378378682,
+      "total_voting_count": 70,
+      "voted_count": 28,
+      "percentage": 40.0,
+      "required_votes": 21,
+      "votes_missing": 0,
+      "exact_percentage": 40.0
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PMwqgdbcjwHjBxGaciq3bRc9E4sCfKpvcc",
+      "committed_amount": 201264979,
+      "total_voting_count": 90,
+      "voted_count": 37,
+      "percentage": 41.11111111111111,
+      "required_votes": 27,
+      "votes_missing": 0,
+      "exact_percentage": 41.11111111111111
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PA1KvFfq9VuJjg45p2ytGgaNjrgnLSgf4r",
+      "committed_amount": 7422664555,
+      "total_voting_count": 72,
+      "voted_count": 31,
+      "percentage": 43.05555555555556,
+      "required_votes": 21,
+      "votes_missing": 0,
+      "exact_percentage": 43.05555555555556
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PLuN4vd3jJfZ3UsoHMaRRbir88CUuhb2hk",
+      "committed_amount": 100000034,
+      "total_voting_count": 72,
+      "voted_count": 31,
+      "percentage": 43.05555555555556,
+      "required_votes": 21,
+      "votes_missing": 0,
+      "exact_percentage": 43.05555555555556
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PGfXB5bEz7EkbtGMNUYop5aior5X6bUbvL",
+      "committed_amount": 123254599,
+      "total_voting_count": 71,
+      "voted_count": 31,
+      "percentage": 43.66197183098591,
+      "required_votes": 21,
+      "votes_missing": 0,
+      "exact_percentage": 43.66197183098591
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PMfQJDkn7x2u475exdWiUZwa8ShQkfZ634",
+      "committed_amount": 215131971,
+      "total_voting_count": 83,
+      "voted_count": 37,
+      "percentage": 44.57831325301205,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 44.57831325301205
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P23fi1qfVw6RVDn4CH2a5nNouEtWNQ4THs",
+      "committed_amount": 1746446023,
+      "total_voting_count": 72,
+      "voted_count": 33,
+      "percentage": 45.83333333333333,
+      "required_votes": 21,
+      "votes_missing": 0,
+      "exact_percentage": 45.83333333333333
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PCkhxGNbT1CwSmHLw6g2zYk6QqZ51bVXyo",
+      "committed_amount": 1050029854,
+      "total_voting_count": 75,
+      "voted_count": 36,
+      "percentage": 48.0,
+      "required_votes": 22,
+      "votes_missing": 0,
+      "exact_percentage": 48.0
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PPoHiMrFPAKBsUKiBajVGzSrUGpz1hdJ7W",
+      "committed_amount": 100000000,
+      "total_voting_count": 81,
+      "voted_count": 41,
+      "percentage": 50.617283950617285,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 50.617283950617285
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PFSsJ1woEJrPqur8apdmEBdw8HvyAu271W",
+      "committed_amount": 133626707,
+      "total_voting_count": 75,
+      "voted_count": 38,
+      "percentage": 50.66666666666667,
+      "required_votes": 22,
+      "votes_missing": 0,
+      "exact_percentage": 50.66666666666667
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PJaK6gy9GKDXYaRK2kTkTrqDSbtbp5H999",
+      "committed_amount": 1000000000,
+      "total_voting_count": 81,
+      "voted_count": 47,
+      "percentage": 58.0246913580247,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 58.0246913580247
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PF6HUACCxujjSbdxtUzPuwbQUjXQd4eqF2",
+      "committed_amount": 144393628,
+      "total_voting_count": 81,
+      "voted_count": 49,
+      "percentage": 60.49382716049383,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 60.49382716049383
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PCCMNDUDLt2hE3GxLHf1BxJiRWJmPjfzPJ",
+      "committed_amount": 236391796,
+      "total_voting_count": 23,
+      "voted_count": 14,
+      "percentage": 60.86956521739131,
+      "required_votes": 6,
+      "votes_missing": 0,
+      "exact_percentage": 60.86956521739131
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PASkUPUMWsqK1fhBytSWw8DBgFGpq9d6ar",
+      "committed_amount": 134378875,
+      "total_voting_count": 81,
+      "voted_count": 51,
+      "percentage": 62.96296296296296,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 62.96296296296296
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PQhGvLgHdUt4GviS8wX5ZwqAZQPv5mnUoi",
+      "committed_amount": 2090578036,
+      "total_voting_count": 89,
+      "voted_count": 59,
+      "percentage": 66.29213483146067,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 66.29213483146067
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PLGdTuPWPqC2h5bt1UgsrZBkUqK1ENJpq2",
+      "committed_amount": 100000000,
+      "total_voting_count": 82,
+      "voted_count": 55,
+      "percentage": 67.07317073170732,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 67.07317073170732
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PFvxLPUxCY9Et5uyfkYLE4SDZ5oJTCFWsG",
+      "committed_amount": 5000000000,
+      "total_voting_count": 87,
+      "voted_count": 63,
+      "percentage": 72.41379310344827,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 72.41379310344827
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P2FMHavshKyciyu8cHvkVjkwppqXmz7nWm",
+      "committed_amount": 111785678,
+      "total_voting_count": 79,
+      "voted_count": 59,
+      "percentage": 74.68354430379746,
+      "required_votes": 23,
+      "votes_missing": 0,
+      "exact_percentage": 74.68354430379746
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P686PhHzKpUwWDtBgv54pAc1n7FLyN6KwF",
+      "committed_amount": 400000000,
+      "total_voting_count": 90,
+      "voted_count": 69,
+      "percentage": 76.66666666666667,
+      "required_votes": 27,
+      "votes_missing": 0,
+      "exact_percentage": 76.66666666666667
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P6FjQcHZNggULXG8twvbjpsT1sBU8Sh2yv",
+      "committed_amount": 100000000,
+      "total_voting_count": 90,
+      "voted_count": 69,
+      "percentage": 76.66666666666667,
+      "required_votes": 27,
+      "votes_missing": 0,
+      "exact_percentage": 76.66666666666667
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PCeRhqWbEVYBobvct51rrK9MVk95tw13G4",
+      "committed_amount": 1187250967,
+      "total_voting_count": 60,
+      "voted_count": 48,
+      "percentage": 80.0,
+      "required_votes": 18,
+      "votes_missing": 0,
+      "exact_percentage": 80.0
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PPCzX2doZ7agBNuGSKqjrbdXgGEtE7CpQ3",
+      "committed_amount": 100000181,
+      "total_voting_count": 81,
+      "voted_count": 65,
+      "percentage": 80.24691358024691,
+      "required_votes": 24,
+      "votes_missing": 0,
+      "exact_percentage": 80.24691358024691
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P4SiBokWCPGe2yytWVecaZmyjUEY1sY65p",
+      "committed_amount": 1581661329,
+      "total_voting_count": 87,
+      "voted_count": 79,
+      "percentage": 90.80459770114942,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 90.80459770114942
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P339s9WVxF2zGC2ew8NPzjRWbLvyTdqc9n",
+      "committed_amount": 980142643,
+      "total_voting_count": 87,
+      "voted_count": 82,
+      "percentage": 94.25287356321839,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 94.25287356321839
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PA65ZA2Cgu9jPJA3jS1Z4jxpZspxYAhevJ",
+      "committed_amount": 995634977,
+      "total_voting_count": 77,
+      "voted_count": 73,
+      "percentage": 94.8051948051948,
+      "required_votes": 23,
+      "votes_missing": 0,
+      "exact_percentage": 94.8051948051948
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3PQGtJCM4G8Gf51ebZNk4cWMM288CmR8FaS",
+      "committed_amount": 200000000,
+      "total_voting_count": 89,
+      "voted_count": 85,
+      "percentage": 95.50561797752809,
+      "required_votes": 26,
+      "votes_missing": 0,
+      "exact_percentage": 95.50561797752809
+    },
+    {
+      "child_dao": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h",
+      "committer_address": "3P6hUJtfEgFrRpdYgamDRKHqS6taW49REJ2",
+      "committed_amount": 1000000000,
+      "total_voting_count": 79,
+      "voted_count": 79,
+      "percentage": 100.0,
+      "required_votes": 23,
+      "votes_missing": 0,
+      "exact_percentage": 100.0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2024-11-28T22:41:24.638800",
+  "total_participants": 212,
+  "passed_voters_count": 30,
+  "failed_voters_count": 182,
+  "total_committed_saved": 29640617908,
+  "total_committed_slashed": 29801995323,
+  "total_slash_amount": 5960398997,
+  "total_amount_after_slash": 23841596326
+}
