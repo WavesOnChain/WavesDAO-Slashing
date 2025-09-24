@@ -68,7 +68,10 @@ for proposal in proposals:
 print(committer_stats)
 
 result = list(committer_stats.values())
-result.sort(key=lambda x: x["percentage"], reverse=True)
+result.sort(
+    key=lambda x: (x["percentage"], x["committed"], x["committer_address"]),
+    reverse=True,
+)
 
 with open("woc-waves-dao-all-time-vote-percentage.json", "w", encoding="utf-8") as f:
     json.dump(result, f, indent=4)
@@ -82,15 +85,43 @@ for committer in result:
 with open("woc-waves-dao-all-time-to-be-slashed.json", "w", encoding="utf-8") as f:
     json.dump(to_be_slashed, f, indent=4)
 
-tx_arg_value = ",".join(
-    [f"{c['committer_address']}={c['to_be_slashed_amount']}" for c in to_be_slashed]
+
+to_be_slashed_part1 = to_be_slashed[: len(to_be_slashed) // 2]
+to_be_slashed_part2 = to_be_slashed[len(to_be_slashed) // 2 :]
+
+part1_total = sum(c["to_be_slashed_amount"] for c in to_be_slashed_part1)
+part2_total = sum(c["to_be_slashed_amount"] for c in to_be_slashed_part2)
+
+tx_arg_value_part1 = ",".join(
+    [
+        f"{c['committer_address']}={c['to_be_slashed_amount']}"
+        for c in to_be_slashed_part1
+    ]
 )
-print(f"tx param: {tx_arg_value}")
+tx_arg_value_part2 = ",".join(
+    [
+        f"{c['committer_address']}={c['to_be_slashed_amount']}"
+        for c in to_be_slashed_part2
+    ]
+)
 
-tx_args = [
-    {"type": "string", "value": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h"},
-    {"type": "string", "value": tx_arg_value},
-]
+tx_args_part1 = {
+    "args": [
+        {"type": "string", "value": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h"},
+        {"type": "string", "value": tx_arg_value_part1},
+    ],
+    "total_slashed": part1_total,
+}
+tx_args_part2 = {
+    "args": [
+        {"type": "string", "value": "3PEwRcYNAUtoFvKpBhKoiwajnZfdoDR6h4h"},
+        {"type": "string", "value": tx_arg_value_part2},
+    ],
+    "total_slashed": part2_total,
+}
 
-with open("woc-waves-dao-all-time-tx-arg.json", "w", encoding="utf-8") as f:
-    json.dump(tx_args, f, indent=4)
+with open("woc-waves-dao-all-time-tx-arg1.json", "w", encoding="utf-8") as f:
+    json.dump(tx_args_part1, f, indent=4)
+
+with open("woc-waves-dao-all-time-tx-arg2.json", "w", encoding="utf-8") as f:
+    json.dump(tx_args_part2, f, indent=4)
